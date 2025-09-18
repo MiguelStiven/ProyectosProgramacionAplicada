@@ -1,1 +1,1 @@
-En esta carpeta se encuentra lo que concierne al tema data strucures junto con los codigos explicados
+En esta carpeta se encuentra lo que concierne al tema data structures junto con los codigos explicados
