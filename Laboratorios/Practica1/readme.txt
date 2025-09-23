@@ -8,4 +8,4 @@ https://wokwi.com/projects/441449970326743041
 
 El siguiente enlace es para la practica en Wokwi con los 8 leds utilizando microPython
 
-https://wokwi.com/projects/441541127136386049
+https://wokwi.com/projects/442852822749830145
